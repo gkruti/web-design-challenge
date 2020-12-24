@@ -1,0 +1,31 @@
+
+
+
+
+.navbar{
+    max-height: 50px; 
+	background-color:lightgray 
+    font-size: 10px; 
+    color: white; 
+
+}
+
+}
+
+.nav-link:hover{
+    background-color:lightgray
+}
+
+.image {
+    object-fit: fill;
+  }
+
+h2{
+    font-weight: bold;
+
+}
+
+h4{
+    font-weight: bold;
+
+}
